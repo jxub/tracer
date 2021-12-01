@@ -1,0 +1,7 @@
+{call,{barber,main,[]}}.
+{comp,852987}.
+{exec,10000514}.
+{node,nonode@nohost}.
+{pid,145}.
+{return,none}.
+{tracing,timeout}.
